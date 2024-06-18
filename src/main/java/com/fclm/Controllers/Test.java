@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class Test {
 
     @GetMapping(value = "/test")
-    protected String genIds(){
+    protected String test(){
 
         return "Hola";
 

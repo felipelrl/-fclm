@@ -9,7 +9,7 @@ public class Test {
     @GetMapping(value = "/test")
     protected String test(){
 
-        return "Hola";
+        return "Holaaaa";
 
     }
 }
